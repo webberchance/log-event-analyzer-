@@ -1,0 +1,5 @@
+Jul 15 11:23:45 server sshd[2021]: Failed password for invalid user admin from 192.168.1.10 port 22
+Jul 15 11:23:46 server sshd[2021]: Failed password for root from 192.168.1.10 port 22
+Jul 15 11:23:48 server sshd[2021]: Accepted password for user1 from 192.168.1.5 port 22
+Jul 15 11:23:50 server sshd[2021]: Failed password for root from 192.168.1.10 port 22
+Jul 15 11:23:52 server sshd[2021]: Failed password for root from 192.168.1.10 port 22
